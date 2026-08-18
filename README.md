@@ -1,6 +1,6 @@
-# Política de Privacidade do Aplicativo Music Player
+# Política de privacidade do aplicativo Music Player
 
-**Última atualização: 9 de Junho de 2026**
+**Última atualização: 18 de Agosto de 2026**
 
 Esta Política de Privacidade descreve como o **Music Player** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de reprodução de músicas offline **Music Player**. Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
 
