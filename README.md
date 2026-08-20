@@ -1,95 +1,96 @@
-# Política de privacidade do aplicativo Music Player
+# Privacy Policy for Music Player app
 
-**Última atualização: 18 de Agosto de 2026**
+**Last updated: August 20, 2026**
 
-Esta Política de Privacidade descreve como o **Music Player** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de reprodução de músicas offline **Music Player**. Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
+This Privacy Policy describes how **Music Player** collects, uses, and shares information when you use our offline music player application, **Music Player**. By using our App, you agree to the practices described in this Privacy Policy.
 
-## Informações que Coletamos
+## Information We Collect
 
-### Dados de Música e Biblioteca (Armazenamento Local)
+### Music and Library Data (Local Storage)
 
-O Aplicativo permite que você selecione pastas no seu dispositivo e reproduza arquivos de áudio armazenados localmente. **Importante**: As informações processadas pelo app (como caminho dos arquivos, título, artista, álbum, duração, número da faixa, capa do álbum e data de modificação do arquivo) são armazenadas **apenas no seu dispositivo**, usando armazenamento local (SQLite) e cache temporário de imagens.
+The App allows you to select folders on your device and play audio files stored locally. **Important**: The information processed by the app (such as file path, title, artist, album, duration, track number, album cover, and file modification date) is stored **only on your device**, using local storage (SQLite) and temporary image cache.
 
-- **Não coletamos** dados pessoais sensíveis para uso das funcionalidades principais
-- **Não transmitimos** sua biblioteca musical nem os arquivos de áudio para servidores externos
-- **Não compartilhamos** seus dados de biblioteca com terceiros
-- **Não requeremos** criação de conta ou login
+- **We do not collect** sensitive personal data for the use of core features
+- **We do not transmit** your music library or audio files to external servers
+- **We do not share** your library data with third parties
+- **We do not require** account creation or login
 
-Seus dados de uso do Music Player permanecem privados e armazenados localmente no seu dispositivo.
+Your Music Player usage data remains private and stored locally on your device.
 
-### Permissões do Dispositivo
+### Device Permissions
 
-Para funcionar corretamente, o Aplicativo pode solicitar as seguintes permissões no Android:
+To function correctly, the App may request the following permissions on Android:
 
-- **Leitura de áudio / armazenamento**: Para acessar arquivos de música que você possui no dispositivo
-- **Notificações**: Para exibir controles de reprodução na área de notificações
-- **Serviço em primeiro plano de mídia**: Para continuar a reprodução em segundo plano
-- **Wake Lock**: Para manter a reprodução estável durante a execução
+- **Audio / Storage Access**: To access music files stored on your device
+- **Notifications**: To display playback controls in the notification shade
+- **Media Foreground Service**: To continue playback in the background
+- **Wake Lock**: To ensure stable playback while running
 
-Essas permissões são usadas **somente** para as funcionalidades do reprodutor e **não** para envio de dados a servidores nossos.
+These permissions are used **solely** for player functionality and **not** for sending data to our servers.
 
-### Links Externos (Ação do Usuário)
+### External Links (User Action)
 
-O Aplicativo pode oferecer a opção de abrir links externos, como a página do desenvolvedor na **Google Play Store**. Essa ação só ocorre quando **você** a toca. Nesse caso, o navegador ou o app da Play Store pode processar informações conforme as políticas do Google.
+The App may offer the option to open external links, such as the developer's page on the **Google Play Store**. This action only occurs when **you** tap it. In such cases, your browser or the Play Store app may process information in accordance with Google's policies.
 
-**Compartilhamento**: Não compartilhamos automaticamente seus dados de música com a Google ou outros terceiros. O acesso a links externos está sujeito à [Política de Privacidade do Google](https://policies.google.com/privacy).
+**Sharing**: We do not automatically share your music data with Google or other third parties. Access to external links is subject to the [Google Privacy Policy](https://policies.google.com/privacy).
 
-## Funcionalidades do Aplicativo
+## App Features
 
-O Aplicativo permite que os usuários ouçam músicas de forma simples e prática, totalmente offline. As principais funcionalidades incluem:
+The App allows users to listen to music in a simple and practical way, completely offline. Key features include:
 
-- **Selecionar pasta de músicas**: O usuário pode escolher uma pasta no dispositivo para organizar sua biblioteca
-- **Escanear biblioteca**: O aplicativo indexa arquivos de áudio e extrai metadados (título, artista, álbum, duração e capa)
-- **Navegar pela biblioteca**: O usuário pode visualizar faixas organizadas por artistas, álbuns e outras visualizações
-- **Reproduzir músicas**: O usuário pode ouvir arquivos de áudio com controles de reprodução
-- **Reprodução em segundo plano**: O usuário pode continuar ouvindo com o app minimizado
-- **Controles na notificação**: O usuário pode controlar a reprodução pela área de notificações do Android
-- **Alterar pasta da biblioteca**: O usuário pode escolher outra pasta de músicas quando desejar
+- **Select music folder**: The user can choose a folder on their device to organize their library
+- **Scan library**: The app indexes audio files and extracts metadata (title, artist, album, duration, and cover art)
+- **Browse library**: The user can view tracks organized by artists, albums, and other views
+- **Play music**: The user can listen to audio files with playback controls
+- **Background playback**: The user can keep listening while the app is minimized
+- **Notification controls**: The user can control playback directly from the Android notification area
+- **Change library folder**: The user can choose a different music folder whenever they wish
 
-**Todas essas ações são realizadas localmente no dispositivo do usuário**, e os dados da biblioteca musical não são enviados nem armazenados em servidores externos.
+**All of these actions are performed locally on the user's device**, and music library data is neither sent to nor stored on external servers.
 
-## Anúncios
+## Advertisements
 
-O **Music Player não exibe anúncios** e **não utiliza** o Google AdMob nem outras plataformas de publicidade.
+**Music Player does not display ads** and **does not use** Google AdMob or any other advertising platforms.
 
-Portanto, o aplicativo **não coleta** dados para personalização de anúncios, impressões, cliques ou análise publicitária.
+Therefore, the app **does not collect** data for ad personalization, impressions, clicks, or advertising analytics.
 
-## Não Coleta de Dados Pessoais Identificáveis
+## No Collection of Personally Identifiable Information
 
-O Aplicativo **não requer** que você forneça informações pessoais identificáveis como:
+The App **does not require** you to provide personally identifiable information such as:
 
-- Nome completo
-- Endereço de e-mail
-- Número de telefone
-- Dados de pagamento ou cartão de crédito
-- Informações bancárias
+- Full name
+- Email address
+- Phone number
+- Payment or credit card details
+- Banking information
 
-**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis relacionados à sua biblioteca musical ou à sua identidade pessoal para uso das funcionalidades principais do app.
+**We do not collect, store, or share** personally identifiable data related to your music library or your personal identity for the use of core app features.
 
-## Segurança
+## Security
 
-Embora o Music Player armazene seus dados de uso apenas localmente no dispositivo, recomendamos que os usuários adotem boas práticas de segurança:
+Although Music Player stores your usage data only locally on your device, we recommend that users follow good security practices:
 
-- Manter o dispositivo protegido com senhas, PIN ou outras formas de autenticação
-- Fazer backup regular dos dados do dispositivo
-- Manter o sistema operacional e o aplicativo atualizados
-- Não compartilhar o dispositivo com pessoas não autorizadas
+- Keep your device protected with passwords, PIN, or other authentication methods
+- Regularly back up your device data
+- Keep your operating system and the app updated
+- Do not share your device with unauthorized individuals
 
-## Seus Direitos
+## Your Rights
 
-Você tem o direito de:
+You have the right to:
 
-- **Gerenciar permissões**: Você pode conceder ou revogar permissões de áudio, armazenamento e notificações nas configurações do Android
-- **Gerenciar seus dados**: Como todos os dados da biblioteca ficam no seu dispositivo, você tem controle total sobre eles
-- **Alterar a pasta de músicas**: Você pode escolher outra pasta ou remover o acesso quando desejar
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá os dados locais do app (banco de dados e caches internos). Os arquivos de música originais no seu dispositivo **não são apagados** pela desinstalação
+- **Manage permissions**: You can grant or revoke audio, storage, and notification permissions in your Android settings
+- **Manage your data**: Since all library data remains on your device, you have full control over it
+- **Change the music folder**: You can choose another folder or remove access whenever you wish
+- **Uninstall the app**: You can uninstall the application at any time, which will remove the app's local data (database and internal caches). Original music files on your device **are not deleted** by uninstallation
 
-## Alterações nesta Política de Privacidade
+## Changes to This Privacy Policy
 
-Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a qualquer momento. Quando isso acontecer, a data da "Última atualização" no topo desta página será alterada. Recomendamos que você revise periodicamente esta Política para se manter informado sobre como estamos protegendo suas informações.
+We reserve the right to change or update this Privacy Policy at any time. When changes occur, the "Last updated" date at the top of this page will be revised. We recommend reviewing this Policy periodically to stay informed about how we protect your information.
 
-## Contato
-e-mail: codeinnovationmail@gmail.com
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
+## Contact
 
-**Nota**: Esta política está alinhada com os requisitos da Google Play Console e reflete com precisão como o aplicativo coleta,
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: **codeinnovationmail@gmail.com**.
+
+---
+*Note: This policy complies with Google Play Console requirements and accurately reflects how the application collects and processes data.*
