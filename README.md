@@ -1,4 +1,4 @@
-# Privacy Policy for Music Player app
+# Privacy Policy for Music Player App
 
 **Last updated: August 20, 2026**
 
